@@ -16,7 +16,7 @@
   <td><a href="https://youtube.com/candeger">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a> 
-<td
+<td>
 </a>
 <td><a href="https://dc.lunizz.com">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
