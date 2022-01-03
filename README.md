@@ -15,9 +15,6 @@
 <tr>
   <td><a href="https://youtube.com/candeger">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a> 
-<td>
-</a>
 <td><a href="https://dc.lunizz.com">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
@@ -33,7 +30,7 @@
 <td><a href="https://www.linkedin.com/in/CanDeger/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<td><a href="mailto:candeger@creatorstation.com">
+<td><a href="mailto:doguhaneryilmaz789@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
   </tr>
@@ -42,8 +39,6 @@
 <br></br>
 
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lunizz&theme=blue-green">
 
