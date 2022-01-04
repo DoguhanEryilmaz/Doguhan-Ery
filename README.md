@@ -13,14 +13,14 @@
           ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
  </tr>
 <tr>
-  <td><a href="https://youtube.com/candeger">
+  <td><a href="https://www.youtube.com/channel/UCQdsJaQBplS5n9DzHBpLVLQ">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-<td><a href="https://dc.lunizz.com">
+<td><a href="https://github.com/DoguhanEryilmaz/dc">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
   <tr>
 </a> 
-<td><a href="https://twitter.com/CanDeger">
+<td><a href="<---https://twitter.com/CanDeger!--->">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <td><a href="https://github.com/lunizz">
