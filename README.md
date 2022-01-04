@@ -15,7 +15,7 @@
 <tr>
   <td><a href="https://www.youtube.com/channel/UCQdsJaQBplS5n9DzHBpLVLQ">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-<td><a href="https://github.com/DoguhanEryilmaz/dc">
+<td><a href="https://discord.gg/qzjbrTH7QQ">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
   <tr>
