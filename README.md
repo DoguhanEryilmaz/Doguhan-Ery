@@ -35,7 +35,7 @@
 </a>
   </tr>
 </table>
-<a href="https://github.com/DoguhanEryilmaz/sss.git"> ❓ SIKCA SORULAN SORULAR ❓ </a>
+<a href="https://github.com/LuNiZz/siber-guvenlik-sss.git"> ❓ SIKCA SORULAN SORULAR ❓ </a>
 <br></br>
 
 
